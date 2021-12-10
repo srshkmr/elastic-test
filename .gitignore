@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+/dist
+/views/dist
+
+# misc
+.DS_Store
+
+# Logs
+logs
+*.log
+
+#ENV
+.env
+
+#nyc
+.nyc_output
+
+# coverge 
+/coverage
+
+#vscode
+.vscode
+.idea
+
+# config to install custom plugin
+.npmrc
